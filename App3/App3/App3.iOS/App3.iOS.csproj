@@ -139,4 +139,604 @@
       <Name>App3</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\018-point-at.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\019-maps-and-flags-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\020-shopping-trolley.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\021-zoom-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\022-tick-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\023-zoom-in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\024-storage-device.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\025-asteroid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\026-import.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\027-playing-cards.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\028-cancel-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\029-combine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\030-entry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\031-pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\032-spreadsheet-7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\033-spreadsheet-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\034-widening.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\035-insert-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\036-insert-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\037-insert-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\038-insert-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\039-insert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\040-spreadsheet-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\041-spreadsheet-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\042-spreadsheet-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\043-narrowing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\044-spreadsheet-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\045-spreadsheet-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\046-cells.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\047-table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\048-spreadsheet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\049-image-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\050-empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\051-tv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\052-voice-recording.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\053-padlock-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\054-magnifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\055-minute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\056-playing-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\057-loudspeaker-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\058-safe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\059-phone-book-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\060-tools-and-utensils-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\061-hash-key-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\062-year.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\063-cf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\064-continuous-line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\065-arrow-right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\066-down-arrow-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\067-importance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\068-tools-and-utensils-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\069-diamond.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\070-padlock-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\071-ink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\072-scroll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\073-menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\074-character.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\075-arroba.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\076-phone-book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\077-more.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\078-game-control.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\079-clockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\080-down-arrow-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\081-wifi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\082-wealth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\083-photography.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\084-rotation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\085-left-arrow-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\086-v-neck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\087-work-tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\088-opened-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\089-steering.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\090-soccer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\091-speaker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\092-bulb-outline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\093-right-arrow-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\094-grab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\095-image-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\096-broken-line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\097-opened.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\098-image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\099-ebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\100-businessman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\101-data.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\102-document-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\103-doubt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\104-down-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\105-turn-on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\106-maps-and-flags-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\107-first-aid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\108-other-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\109-chat-balloon-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\110-magician.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\111-film.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\112-information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\113-canvas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\114-maps-and-flags-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\115-gestures-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\116-right-arrow-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\117-blank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\118-number-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\119-attached.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\120-tools-and-utensils-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\121-interface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\122-cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\123-chat-balloon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\124-loudspeaker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\125-mic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\126-automobile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\127-door-key-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\128-preference.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\129-navigation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\130-attache-case.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\131-ecommerce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\132-cardinal-point.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\133-column.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\134-document.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\135-label.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\136-pie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\137-female.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\138-maps-and-flags-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\139-phonebook-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\140-education-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\141-passion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\142-geometry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\143-dislike.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\144-hyperlink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\145-gestures.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\146-padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\147-royal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\148-user-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\149-magnifying-glass-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\150-user-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\151-file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\152-binoculars-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\153-binoculars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\154-tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\155-status.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\156-door-key-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\157-door-key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\158-computing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\159-up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\160-education.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\161-idea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\162-mug.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\163-funnel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\164-coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\165-clipboard-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\166-refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\167-rubbish-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\168-fairy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\169-floppy-disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\170-left-arrow-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\171-room-door.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\172-left-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\173-muted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\174-text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\175-tools-and-utensils-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\176-other.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\177-subtract.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\178-printing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\179-position.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\180-right-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\181-division-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\182-thumb-up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\183-phonebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\184-spanner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\185-maps-and-flags.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\186-loading.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\187-statistical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\188-rubbish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\189-mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\190-tools-and-utensils.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\191-connector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\192-clipboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\193-magnifying-glass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\194-division.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\195-house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\196-user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\197-hash-key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\198-browser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\199-telemarketer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\200-terminal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\001-selection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\002-framework.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\003-combine-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\004-widening-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\005-spreadsheet-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\006-locked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\007-zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\008-objetive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\009-plugs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\010-contrast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\011-lines.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\012-clover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\013-navigation-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\014-electron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\015-week.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\016-reign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\017-text-1.png" />
+  </ItemGroup>
 </Project>

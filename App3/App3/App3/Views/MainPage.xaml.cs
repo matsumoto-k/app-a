@@ -13,6 +13,7 @@ namespace App3.Views
         public MainPage()
         {
             InitializeComponent();
+
         }
     }
 }
