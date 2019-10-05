@@ -11,13 +11,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="xaml\MasterDetailPage1.xaml">
+    <EmbeddedResource Update="xaml\ContactsPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="xaml\MasterDetailPage1Detail.xaml">
+    <EmbeddedResource Update="xaml\ContactsPageDetail.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="xaml\MasterDetailPage1Master.xaml">
+    <EmbeddedResource Update="xaml\ContactsPageMaster.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="xaml\MainPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

@@ -4,7 +4,7 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="App1.xaml.MasterDetailPage1Master"
+             x:Class="App1.xaml.ContactsPageMaster"
              Title="Master">
   <StackLayout>
     <ListView x:Name="MenuItemsListView"
@@ -21,7 +21,7 @@
           </x:Array>
       </d:ListView.ItemsSource>
       <ListView.Header>
-        <Grid BackgroundColor="Blue">
+        <Grid BackgroundColor="#03A9F4">
           <Grid.ColumnDefinitions>
             <ColumnDefinition Width="10"/>
             <ColumnDefinition Width="*"/>

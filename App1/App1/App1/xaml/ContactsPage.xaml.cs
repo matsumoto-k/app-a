@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace App1.xaml
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class MasterDetailPage1 : MasterDetailPage
+    public partial class ContactsPage : MasterDetailPage
     {
-        public MasterDetailPage1()
+        public ContactsPage()
         {
             InitializeComponent();
             MasterPage.ListView.ItemSelected += ListView_ItemSelected;
@@ -20,7 +20,7 @@ namespace App1.xaml
 
         private void ListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            var item = e.SelectedItem as MasterDetailPage1MasterMenuItem;
+            var item = e.SelectedItem as ContactsPageMasterMenuItem;
             if (item == null)
                 return;
 

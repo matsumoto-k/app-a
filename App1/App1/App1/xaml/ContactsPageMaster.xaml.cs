@@ -13,31 +13,31 @@ using Xamarin.Forms.Xaml;
 namespace App1.xaml
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class MasterDetailPage1Master : ContentPage
+    public partial class ContactsPageMaster : ContentPage
     {
         public ListView ListView;
 
-        public MasterDetailPage1Master()
+        public ContactsPageMaster()
         {
             InitializeComponent();
 
-            BindingContext = new MasterDetailPage1MasterViewModel();
+            BindingContext = new ContactsPageMasterViewModel();
             ListView = MenuItemsListView;
         }
 
-        class MasterDetailPage1MasterViewModel : INotifyPropertyChanged
+        class ContactsPageMasterViewModel : INotifyPropertyChanged
         {
-            public ObservableCollection<MasterDetailPage1MasterMenuItem> MenuItems { get; set; }
+            public ObservableCollection<ContactsPageMasterMenuItem> MenuItems { get; set; }
 
-            public MasterDetailPage1MasterViewModel()
+            public ContactsPageMasterViewModel()
             {
-                MenuItems = new ObservableCollection<MasterDetailPage1MasterMenuItem>(new[]
+                MenuItems = new ObservableCollection<ContactsPageMasterMenuItem>(new[]
                 {
-                    new MasterDetailPage1MasterMenuItem { Id = 0, Title = "Page 1" },
-                    new MasterDetailPage1MasterMenuItem { Id = 1, Title = "Page 2" },
-                    new MasterDetailPage1MasterMenuItem { Id = 2, Title = "Page 3" },
-                    new MasterDetailPage1MasterMenuItem { Id = 3, Title = "Page 4" },
-                    new MasterDetailPage1MasterMenuItem { Id = 4, Title = "Page 5" },
+                    new ContactsPageMasterMenuItem { Id = 0, Title = "Page 1" },
+                    new ContactsPageMasterMenuItem { Id = 1, Title = "Page 2" },
+                    new ContactsPageMasterMenuItem { Id = 2, Title = "Page 3" },
+                    new ContactsPageMasterMenuItem { Id = 3, Title = "Page 4" },
+                    new ContactsPageMasterMenuItem { Id = 4, Title = "Page 5" },
                 });
             }
 

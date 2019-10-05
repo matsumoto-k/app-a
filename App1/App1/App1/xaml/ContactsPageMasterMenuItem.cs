@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 namespace App1.xaml
 {
 
-    public class MasterDetailPage1MasterMenuItem
+    public class ContactsPageMasterMenuItem
     {
-        public MasterDetailPage1MasterMenuItem()
+        public ContactsPageMasterMenuItem()
         {
-            TargetType = typeof(MasterDetailPage1MasterMenuItem);
+            TargetType = typeof(ContactsPageMasterMenuItem);
         }
         public int Id { get; set; }
         public string Title { get; set; }
