@@ -9,14 +9,15 @@
     xmlns:views="clr-namespace:App3.Views"
     BarBackgroundColor="#FF76DDEC"
     BarTextColor="White"
+    
     mc:Ignorable="d">
-
+    <!-- タブ4つ左から「探す」「チャット」「友達」「マイページ」-->
     <TabbedPage.Children>
-        <NavigationPage Title="チ">
+        <NavigationPage Title="探す">
             <NavigationPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
-                    <On Platform="Android" Value="" />
-                    <On Platform="iOS" Value="tab_feed.png" />
+                    <On Platform="Android" Value="search.png" />
+                    <On Platform="iOS" Value="search.png" />
                 </OnPlatform>
             </NavigationPage.Icon>
             <x:Arguments>
@@ -24,10 +25,23 @@
             </x:Arguments>
         </NavigationPage>
 
-        <NavigationPage Title="あ">
+        <NavigationPage Title="チャット">
             <NavigationPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
-                    <On Platform="iOS" Value="tab_about.png" />
+                    <On Platform="Android" Value="chat.png" />
+                    <On Platform="iOS" Value="chat.png" />
+                </OnPlatform>
+            </NavigationPage.Icon>
+            <x:Arguments>
+                <views:ChatListPage />
+            </x:Arguments>
+        </NavigationPage>
+
+        <NavigationPage Title="友達">
+            <NavigationPage.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="Android" Value="people.png" />
+                    <On Platform="iOS" Value="people.png" />
                 </OnPlatform>
             </NavigationPage.Icon>
             <x:Arguments>
@@ -35,21 +49,11 @@
             </x:Arguments>
         </NavigationPage>
 
-        <NavigationPage Title="友">
+        <NavigationPage Title="マイページ">
             <NavigationPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
-                    <On Platform="iOS" Value="tab_about.png" />
-                </OnPlatform>
-            </NavigationPage.Icon>
-            <x:Arguments>
-                <views:AboutPage />
-            </x:Arguments>
-        </NavigationPage>
-
-        <NavigationPage Title="友">
-            <NavigationPage.Icon>
-                <OnPlatform x:TypeArguments="FileImageSource">
-                    <On Platform="iOS" Value="tab_about.png" />
+                    <On Platform="Android" Value="human.png" />
+                    <On Platform="iOS" Value="human.png" />
                 </OnPlatform>
             </NavigationPage.Icon>
             <x:Arguments>

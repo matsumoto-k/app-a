@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:App3.Views"
+             mc:Ignorable="d"
+             x:Class="App3.Views.ChatListPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="ChatList" ItemsSource="{Binding ChatLists}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Orientation="Horizontal" Padding="10">
+                            <Image Source="human.png" WidthRequest="30"/>
+                            <StackLayout Orientation="Vertical" Padding="10, 0, 0, 0">
+                                <Label x:Name="NameLabel" Text="{Binding Name}" />
+                                <Label x:Name="TextLabel" Text="{Binding Text}" />
+                            </StackLayout>
+                        </StackLayout>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
