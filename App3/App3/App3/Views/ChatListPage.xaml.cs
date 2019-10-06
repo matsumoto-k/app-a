@@ -19,7 +19,12 @@ namespace App3.Views
         {
             InitializeComponent();
 
-         
+            List<ChatListInfo> chatListInfos = new List<ChatListInfo>();
+
+            chatListInfos.Add(new ChatListInfo() { Name = "name1", Text = "text1" });
+
+            this.ChatList.ItemsSource = chatListInfos;
+
         }
     }
 }
